@@ -29,6 +29,7 @@ public class d5 {
                     row = upper/2;
                 }else if (i == 6 && str.charAt(i) == 'B'){
 
+
                 }
                 switch(str.charAt(i)){
                     case 'F':
